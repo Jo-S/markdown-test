@@ -15,6 +15,8 @@ Double tilde is ~~strikethrough~~
 ## This is an image:
 ![alternate text](http://unsplash.it/500/500?random "This is the tooltip")
 
+![alternate text](http://unsplash.it/500/500?image=1012 "This is the tooltip")
+
 
 http://unsplash.it/500/500?image=1012
 
