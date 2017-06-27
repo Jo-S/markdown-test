@@ -2,8 +2,8 @@
 Hello there - welcome to my _Test Markdown_ page
 I am **super excited**
 
-One set of asterisk makes it *italic*
-Two sets of asterisks makes it **bold** 
+One set of asterisk makes it *italic*, two sets make it **bold** 
+One set of underscore makes it _italic_, two sets make it __bold__ 
 
 ```javaScript
 const name = 'The Game';
