@@ -6,6 +6,9 @@ One set of asterisk makes it *italic*, two sets make it **bold**
 
 One set of underscore makes it _italic_, two sets make it __bold__ 
 
+Double tilde is ~~strikethrough~~
+
+
 ```javaScript
 const name = 'The Game';
 let age = 100;
