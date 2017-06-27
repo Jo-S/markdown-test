@@ -1,8 +1,15 @@
-# markdown-test
-Just a few tests of markdown
+# Test MarkDown!
+Hello there - welcome to my Test Markdown page
+I am **super excited**
 
-Banana Bread Recipe
--Ingredients
+'''javaScript
+const name = 'The Game';
+let age = 100;
+'''
+
+
+## Banana Bread Recipe
+###Ingredients
 * [x] 1 tsp baking powder
 * [x] 8 tsp baking soda
 * [x] 2 eggs
@@ -13,12 +20,3 @@ Banana Bread Recipe
 * 1 tsp vanilla extract
 * 1-1/2 cups sugar
 * 1/4 tsp salt
-
-# Test MarkDown!
-Hello there - welcome to my Test Markdown page
-I am **super excited**
-
-'''javaScript
-const name = 'The Game';
-let age = 100;
-'''
