@@ -13,7 +13,7 @@ Double tilde is ~~strikethrough~~
 ### This is H3
 
 ## This is an image:
-![alternate text](http://unsplash.it/500/500?random "This is the tooltip")
+![alternate text](http://unsplash.it/500/500?image=1000 "This is the tooltip")
 
 ```javaScript
 const name = 'The Game';
