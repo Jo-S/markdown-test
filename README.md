@@ -2,6 +2,9 @@
 Hello there - welcome to my _Test Markdown_ page
 I am **super excited**
 
+One set of asterisk makes it *italic*
+Two sets of asterisks makes it **bold** 
+
 ```javaScript
 const name = 'The Game';
 let age = 100;
@@ -22,5 +25,5 @@ let age = 100;
 
 ### The Best Humans of All Time
 | Name      | Birth Year | Country      |
-|:---------:|:----------:|:------------:|
+|:---------:|:----------:|--------------|
 |Mandela    | 1930       | South Africa |
