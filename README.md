@@ -7,7 +7,6 @@ const name = 'The Game';
 let age = 100;
 ```
 
-
 ## Banana Bread Recipe
 ### Ingredients
 * [x] 1 tsp baking powder
@@ -20,3 +19,8 @@ let age = 100;
 * 1 tsp vanilla extract
 * 1-1/2 cups sugar
 * 1/4 tsp salt
+
+### The Best Humans of All Time
+| Name      | Birth Year | Country      |
+|:---------:|:----------:|--------------|
+|Mandela    | 1930       | South Africa |
