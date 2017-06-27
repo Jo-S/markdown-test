@@ -27,6 +27,9 @@ http://unsplash.it/500/500?image=523
 
 [pup]: http://unsplash.it/500/500?image=1012
 
+
+[![A Link](http://unsplash.it/50/50?image=1000)](http://unsplash.it/500/500?image=1000)
+
 ```javaScript
 const name = 'The Game';
 let age = 100;
