@@ -14,6 +14,8 @@ Banana Bread Recipe
 * 1-1/2 cups sugar
 * 1/4 tsp salt
 
+# Test MarkDown!
+Hello there - welcome to my Test Markdown page
 I am **super excited**
 
 '''javaScript
