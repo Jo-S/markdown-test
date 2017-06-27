@@ -2,10 +2,10 @@
 Hello there - welcome to my _Test Markdown_ page
 I am **super excited**
 
-'''javaScript
+```javaScript
 const name = 'The Game';
 let age = 100;
-'''
+```
 
 
 ## Banana Bread Recipe
