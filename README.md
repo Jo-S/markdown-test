@@ -15,3 +15,8 @@ Banana Bread Recipe
 * 1/4 tsp salt
 
 I am **super excited**
+
+'''javaScript
+const name = 'The Game';
+let age = 100;
+'''
