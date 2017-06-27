@@ -14,4 +14,4 @@ Banana Bread Recipe
 * 1-1/2 cups sugar
 * 1/4 tsp salt
 
-I am ** super excited**
+I am **super excited**
