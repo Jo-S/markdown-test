@@ -22,5 +22,5 @@ let age = 100;
 
 ### The Best Humans of All Time
 | Name      | Birth Year | Country      |
-|:---------:|:----------:|--------------|
+|:---------:|:----------:|:------------:|
 |Mandela    | 1930       | South Africa |
