@@ -13,7 +13,7 @@ let age = 100;
 * [x] 1 tsp baking powder
 * [x] 8 tsp baking soda
 * [x] 2 eggs
-* 6-8 tbsp butter (melted)
+* [ ] 6-8 tbsp butter (melted)
 * 1/2 cup sour cream
 * 2-3 bananas
 * 2 cups plain flour (or self raising)
