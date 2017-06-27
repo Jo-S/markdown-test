@@ -8,6 +8,10 @@ One set of underscore makes it _italic_, two sets make it __bold__
 
 Double tilde is ~~strikethrough~~
 
+# This is H1
+## This is H2
+### This is H3
+
 
 ```javaScript
 const name = 'The Game';
